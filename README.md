@@ -6,4 +6,4 @@ FET is open source free software for automatically scheduling the timetable of a
 
 Usually, FET is able to solve a complicated timetable in maximum 5-20 minutes. For simpler timetables, it may take a shorter time, under 5 minutes (in some cases, a matter of seconds). For extremely difficult timetables, it may take a longer time, a matter of hours.
 
-Contributors Sardor Isakov and Sunny Shum
+Contributors Jacob McCrae, Sardor Isakov, and Sunny Shum
